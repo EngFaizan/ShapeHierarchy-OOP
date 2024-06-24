@@ -1,12 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 
-/**
- *
- * @author lenovo
- */
 public abstract class Shape {
-    public abstract int getNumberofDimansions();
+    public abstract int getNumberofDimensions();
 }
