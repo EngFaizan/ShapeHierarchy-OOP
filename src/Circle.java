@@ -11,11 +11,6 @@ public class Circle extends TwoDimensionalShape{
         return Math.PI * radius * radius;
     }
     
-    @Override
-    public int getNumberofDimensions(){
-        return 2;
-    }
-    
     public double getRadius(){
         return radius;
     }
