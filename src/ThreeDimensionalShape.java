@@ -5,5 +5,5 @@ public abstract class ThreeDimensionalShape extends Shape{
         return 3;
     }
     
-    public abstract double getvolume();
+    public abstract double getVolume();
 }
